@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1636774891 source:c:\users\kishor k r\desktop\codeblocks\googlepagerank\webpage.cpp
+	<iostream>
+	<string.h>
+	<assert.h>
+	"webpage.h"
+
+1636775950 c:\users\kishor k r\desktop\codeblocks\googlepagerank\webpage.h
+	<string>
+
+1636788210 source:c:\users\kishor k r\desktop\codeblocks\googlepagerank\main.cpp
+	<cstring>
+	<fstream>
+	<iostream>
+	"webpage.h"
+	"recommend.h"
+
+1636767021 source:c:\users\kishor k r\desktop\codeblocks\googlepagerank\recommend.cpp
+
+1636775950 c:\users\kishor k r\desktop\codeblocks\googlepagerank\recommend.h
+
